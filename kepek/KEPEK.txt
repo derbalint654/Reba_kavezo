@@ -1,0 +1,12 @@
+﻿Ide masold a kepeket ezekkel a nevekkel (jpg; ha mas a kiterjesztes, az index.html-ben is ird at):
+
+hero.jpg       - nagy, hangulatos fokep (fekvo, min. 1920 px szeles)
+rolunk.jpg     - a pult, a csapat vagy a bejarat (allo, 4:5 aranyu)
+galeria-1.jpg  - szeles kep (pl. vendegter)
+galeria-2.jpg
+galeria-3.jpg  - allo kep (pl. kave kozelrol)
+galeria-4.jpg
+galeria-5.jpg
+galeria-6.jpg  - szeles kep
+
+A galeriakepek alt szoveget (leirasat) az index.html-ben kell kitolteni.
